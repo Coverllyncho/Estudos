@@ -1,0 +1,13 @@
+div {
+    width: 300px;
+    height: 300px;
+}
+
+#elemento-01 {
+    background: aquamarine;
+    margin: 20px 10px 40px 30px;
+}
+
+#elemento-02 {
+    background: purple;
+}
