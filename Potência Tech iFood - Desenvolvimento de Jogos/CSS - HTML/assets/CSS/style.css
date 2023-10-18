@@ -11,3 +11,36 @@ div {
 #elemento-02 {
     background: purple;
 }
+
+
+
+#current-color {
+    border: solid currentColor;
+    color: red;
+}
+body {
+    background: rgb(145, 87, 87);
+   
+}
+ #rgb {
+    color: rgb(255,255,0);
+ }
+ #rgba {
+    color: rgba(255,255,0, 0.5);
+ }
+
+ #hex {
+    color: #0000f0;
+ }
+
+ #hext {
+    color: #0000f00f;
+ }
+
+ #hsl {
+    color: hsl(120, 100%, 50%);
+ }
+
+ #hsla {
+    color: hsla(300, 100%, 50%, 0.5);
+ }
