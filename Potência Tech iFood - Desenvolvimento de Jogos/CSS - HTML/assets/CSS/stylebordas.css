@@ -1,0 +1,13 @@
+body {
+    font-family: Roboto, sans-serif;
+}
+
+.exemplo {
+    background-color: aquamarine;
+    width: 200px;
+    height: 200px;
+    border-style: groove dotted solid double;
+    /*border-width: 10px thick 20px 30px;*/
+    border-width: 10px;
+
+}
